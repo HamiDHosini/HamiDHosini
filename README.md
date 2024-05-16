@@ -1,5 +1,7 @@
-# Hey! Nice To see you.
-```javascript
+# 💫 Nice to see you!
+
+## About me 🎗
+```javascript 
 const HamiDHosini = {
     name : 'Hamid',
     about : 'I am Front-end Developer',
@@ -20,3 +22,9 @@ const HamiDHosini = {
     }
 }
 ```
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HamiDHosini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HamiDHosini&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamiDHosini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
