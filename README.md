@@ -6,7 +6,7 @@ const HamiDHosini = {
     name : 'Hamid',
     about : 'I am Front-end Developer',
     languages : ['Javascript' , '...'],
-    teamTools : ['Github'],
+    teamTools : ['Github' , 'Discord'],
     skills : ['problem-solving like a programmer' , 'love to study' , 'and listener'],
     myStack : {
         frontend : {
