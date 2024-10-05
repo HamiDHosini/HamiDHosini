@@ -1,4 +1,4 @@
-# 💫 Nice to see you!
+# 😃 Nice to see you!
 
 ## About me 🎗
 ```javascript 
