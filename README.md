@@ -1,4 +1,6 @@
-# 😃 Nice to see you!
+<p align="center">
+    <b># 😃 Nice to see you!</b>
+</p>
 
 ## About me 🎗
 ```javascript 
