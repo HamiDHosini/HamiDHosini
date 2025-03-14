@@ -23,7 +23,7 @@ const HamiDHosini = {
 }
 ```
 <p align="center">
-    <b>💻 Tech Stack</b>
+    <b> # 💻 Tech Stack</b>
 </p>
 
 <p align="center">
@@ -43,13 +43,13 @@ const HamiDHosini = {
 </p>
 
 <p align="center">
-    <b>📊 GitHub Stats</b>
+    <b> # 📊 GitHub Stats</b>
 </p>
 
 <p align="center">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=HamiDHosini&theme=dark&hide_border=true)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamiDHosini&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamiDHosini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamiDHosini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
