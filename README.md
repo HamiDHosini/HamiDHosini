@@ -23,11 +23,33 @@ const HamiDHosini = {
 }
 ```
 <p align="center">
-# 💻 Tech Stack
+    <b>💻 Tech Stack</b>
 </p>
-<p align="center">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="48" title="Regex"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="48" title="NPM"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="Gitlab"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord"> </p>
 
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=HamiDHosini&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamiDHosini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="48" title="Regex">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="48" title="NPM">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="Gitlab">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
+</p>
+
+<p align="center">
+    <b>📊 GitHub Stats</b>
+</p>
+
+<p align="center">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=HamiDHosini&theme=dark&hide_border=true)
+</p>
+
+<p align="center">
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamiDHosini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</p>
