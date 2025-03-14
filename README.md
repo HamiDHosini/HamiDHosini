@@ -22,9 +22,9 @@ const HamiDHosini = {
     }
 }
 ```
-<p align="center">
-    <b> ## 💻 Tech Stack</b>
-</p>
+
+## 💻 Tech Stack
+
 
 <p align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
@@ -44,9 +44,8 @@ const HamiDHosini = {
 <br>
 
 
-<p align="center">
-    <b> ## 📊 GitHub Stats</b>
-</p>
+## 📊 GitHub Stats
+
 
 
 
